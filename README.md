@@ -1,3 +1,3 @@
 # async-vanilla-javascript
 
-Tinkering with Aync / Await
+Tinkering with Async / Await
